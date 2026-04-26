@@ -1,2 +1,9 @@
-# web-scraper-lab
-A simple web scraper project
+# Web Scraper
+
+A simple web scraper project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
